@@ -5,11 +5,13 @@
 - 📫 How to reach me through my email: karthikpragada06@gmail.com
 
 ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=radical)   
-----------------------------------
+
+-----------------------------------
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags040&theme=merko)](https://git.io/streak-stats)
 
 -----------------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prags040&layout=compact)](https://github.com/prags040/github-readme-stats)
 
 
