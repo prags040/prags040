@@ -1,4 +1,4 @@
-      [![Visits Badge](https://badges.pufler.dev/visits/prags040/git-badges)](https://badges.pufler.dev)
+      [![Visits Badge](https://badges.pufler.dev/visits/prags040/prags040)](https://badges.pufler.dev)
 - 👋 Hi, I’m @prags040
 - 👀 I’m interested in Full Stack and data analysis.
 - 🌱 I’m currently learning DBMS
