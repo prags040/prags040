@@ -1,6 +1,7 @@
      
  <h2>👋 Hi, I’m Karthik Pragada <br> 
-     B.tech CSE at SRM Institute Chennai 
+        B.Tech (CSE) at<br>
+        SRM Institute Chennai 
 </h2>
  
  ![](https://img.shields.io/badge/MOOD-CALM-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
