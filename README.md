@@ -1,6 +1,8 @@
      
- ##👋 Hi, I’m Karthik Pragada
-    ![](https://img.shields.io/badge/MOOD-CALM-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+ ##👋 Hi, I’m Karthik Pragada##
+ 
+ ![](https://img.shields.io/badge/MOOD-CALM-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+ 
 - 👀 I’m interested in Full Stack and data analysis.
 - 🌱 I’m currently learning DBMS
 - 💞️ I’m looking to collaborate on Data analysis
