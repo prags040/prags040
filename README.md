@@ -16,11 +16,11 @@
 
 -----------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prags040&layout=compact)](https://github.com/prags040/github-readme-stats)
+[![Karthik's github activity graph](https://activity-graph.herokuapp.com/graph?username=prags040&theme=react-dark)](https://github.com/prags040/github-readme-activity-graph)
 
 -----------------------------------
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prags040&layout=compact)](https://github.com/prags040/github-readme-stats)
 
 
 
