@@ -1,11 +1,13 @@
      
- <h2>👋 Hi, I’m Karthik Pragada</h2>
+ <h2>👋 Hi, I’m Karthik Pragada <br> 
+     B.tech CSE at SRM Institute Chennai 
+</h2>
  
  ![](https://img.shields.io/badge/MOOD-CALM-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
- 
-- 👀 I’m interested in Full Stack and data analysis.
-- 🌱 I’m currently learning DBMS
-- 💞️ I’m looking to collaborate on Data analysis
+     
+- 👀 I’m interested in Full Stack Web Development and Data Analysis.
+- 🌱 Currently upgrading my skills in Data Structures and Algorithm.
+- 💞️ I’m looking to collaborate with a company which shares the same ideology as I do.
 - 📫 How to reach me through my email: karthikpragada06@gmail.com
 
 ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=merko)   
