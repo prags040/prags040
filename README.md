@@ -1,4 +1,4 @@
-      https://visitor-badge.glitch.me/badge?page_id=prags040.visitor-badge
+      ![visitors](https://visitor-badge.glitch.me/badge?page_id=prags040.visitor-badge)
 
 - 👋 Hi, I’m @prags040
 - 👀 I’m interested in Full Stack and data analysis.
