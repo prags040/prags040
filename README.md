@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data analysis
 - 📫 How to reach me through my email: karthikpragada06@gmail.com
 
-![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=radical)   
+![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=merko)   
 
 -----------------------------------
 
