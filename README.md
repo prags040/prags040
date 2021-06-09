@@ -16,7 +16,8 @@
 
 -----------------------------------
 
-[![Karthik's github activity graph](https://activity-graph.herokuapp.com/graph?username=prags040&theme=react-dark)](https://github.com/prags040/github-readme-activity-graph)
+<!--[![Karthik's github activity graph](https://activity-graph.herokuapp.com/graph?username=prags040&theme=react-dark)](https://github.com/prags040/github-readme-activity-graph)
+-->
 
 -----------------------------------
 
