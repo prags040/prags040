@@ -6,7 +6,7 @@
      
 - 👀 I’m interested in Full Stack Web Development and Data Analysis.
 - 🌱 Currently upgrading my skills in Data Structures and Algorithm.
-- 💞️ I’m looking to collaborate with a company which shares the same ideology as I do.
+- 💞️ Looking forward to collaborate with a company which shares the same ideology as I do.
 - 📫 You can reach me through my email: karthikpragada06@gmail.com
 
 ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=merko)   
