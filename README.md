@@ -1,5 +1,4 @@
-      ![visitors](https://visitor-badge.glitch.me/badge?page_id=prags040.visitor-badge)
-
+      [![Visits Badge](https://badges.pufler.dev/visits/prags040/git-badges)](https://badges.pufler.dev)
 - 👋 Hi, I’m @prags040
 - 👀 I’m interested in Full Stack and data analysis.
 - 🌱 I’m currently learning DBMS
