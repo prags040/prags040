@@ -1,3 +1,5 @@
+      https://visitor-badge.glitch.me/badge?page_id=prags040.visitor-badge
+
 - 👋 Hi, I’m @prags040
 - 👀 I’m interested in Full Stack and data analysis.
 - 🌱 I’m currently learning DBMS
@@ -12,7 +14,9 @@
 
 -----------------------------------
 
-<align=right [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prags040&layout=compact)](https://github.com/prags040/github-readme-stats)</align>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prags040&layout=compact)](https://github.com/prags040/github-readme-stats)
+
+-----------------------------------
 
 
 
