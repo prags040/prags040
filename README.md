@@ -11,11 +11,11 @@
 - 💞️ Looking forward to collaborate with a company which shares the same ideology as I do.
 - 📫 You can reach me through my email: karthikpragada06@gmail.com
 
-![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=merko)   
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags040&theme=merko)](https://git.io/streak-stats)
 
 -----------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags040&theme=merko)](https://git.io/streak-stats)
+![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags040&show_icons=true&theme=merko)  
 
 -----------------------------------
 
